@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007582375153",
+    "project_id": "medify-1a513",
+    "storage_bucket": "medify-1a513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007582375153:android:1abd6652c402c36d3b8d50",
+        "android_client_info": {
+          "package_name": "com.geekymusketeers.medify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TDuaHBhV3QxjbcbRJPI8Gsakl9Vr5ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
